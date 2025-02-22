@@ -15,7 +15,6 @@
 import random
 
 number = random.randint(1,100)
-print(number)
 num_of_guesses = 0
 diff = None # absolute difference between the guess and the number
 
